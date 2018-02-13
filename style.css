@@ -1,0 +1,23 @@
+
+
+
+ body {
+	margin: 0;  /* Margin is the amount of space between the border of an element, and the elements outside it. */
+	padding: 0; /* Padding is the amount of space between the border of an element, and the elements inside it. */
+}
+
+body {
+  background: rgb(0,23,44);
+  color: pink;
+  margin-center: center;
+	justify-content:center;
+	 font-size: 14px;
+
+
+}
+
+
+#name{
+
+	color: blue;
+}
